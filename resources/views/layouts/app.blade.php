@@ -16,6 +16,9 @@
                         <a href="{{ route('todos.index') }}" class="flex items-center py-4 px-2">
                             <span class="font-semibold text-gray-500 text-lg">Todo App</span>
                         </a>
+                        <a href="{{ route('speed.test') }}" class="flex items-center py-4 px-2">
+                            <span class="font-semibold text-gray-500 text-lg">speed test</span>
+                        </a>
                     </div>
                 </div>
                 <div class="flex items-center space-x-3">
